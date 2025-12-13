@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Salut, moi c’est Nassim !</h1>
-<p align="center">💻 Développeur Python • Web • Data — Passionné, curieux et ouvert d’esprit</p>
+<p align="center">💻 Développeur Python • Web — Passionné, curieux et ouvert d’esprit</p>
 
 ---
 
