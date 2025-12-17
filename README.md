@@ -56,7 +56,8 @@ et surtout : **collaborer avec bienveillance** 🤝
 ### 🔧 Méthodologies
 - Agile  
 - Scrum  
-- CI/CD  
+- CI/CD
+- SRE
 
 ---
 
