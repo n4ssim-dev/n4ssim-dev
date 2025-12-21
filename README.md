@@ -61,17 +61,16 @@ et surtout : **collaborer avec bienveillance** 🤝
 
 ---
 
-## ⭐ Projets en avant
+## ⭐ Dernier projets
 
-### 🔹 **Projet 1 – Nom du Projet**
-📌 Petit résumé du projet  
-🔧 Stack : Python, Flask, PostgreSQL  
-🔗 Lien : *(à venir)*
-
-### 🔹 **Projet 2 – Nom du Projet**
-📌 Petit résumé du projet  
-🔧 Stack : Django, React  
-🔗 Lien : *(à venir)*
+### 🔹 **Fablab Palanquée**
+📌 Création d’une plateforme web complète (Flask) incluant gestion utilisateurs, 
+blog, catalogue machines, portfolio de créations et calendrier d’événements. 
+Mise en place du backend (Python, SQLAlchemy), 
+authentification, rôles, uploads sécurisés, formulaires WTForms et migration de base de données.
+*Migration de la BDD vers du JSON et de jinja/flask vers React pour assurer la maintenabilité du projet par l'équipe.
+🔧 Stack : Python, Flask, PostgreSQL, React, Bootstrap
+🔗 Lien : https://fablab-palanquee.netlify.app/
 
 ---
 
