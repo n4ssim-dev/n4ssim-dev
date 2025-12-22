@@ -1,18 +1,18 @@
 <!-- Header -->
 <h1 align="center">👋 Salut, moi c’est Nassim !</h1>
-<p align="center">💻 Développeur Python • Web — Passionné, curieux et ouvert d’esprit</p>
+<p align="center">💻 Alternant - Administrateur Cloud DevOps • Python</p>
 
 ---
 
-## 🌈 À propos de moi
+## 🧑‍💻 À propos de moi
 
-Je suis un développeur passionné par la création d’outils et d’applications utiles, modernes et élégantes.  
-J’aime comprendre comment les choses fonctionnent, résoudre des problèmes, apprendre en continu,  
-et surtout : **collaborer avec bienveillance** 🤝
+Administrateur Cloud DevOps en devenir, issu de Python et du web,   
+enthousiaste à l’idée de transformer des idées en des projets  
+robustes, sécurisés,  actionnables et déployables.  🤝
 
 🎯 Objectifs actuels :  
-- Renforcer mes compétences backend
-- Approfondir mes pratiques DevOps et CI/CD   
+- Approfondir mes compétences Docker pour optimiser mes Pipelines CI/CD
+- Automatiser mes pipelines à 100% : Ne pas avoir trop recours au staging & push régulièrement des tests serveur
 
 ---
 
