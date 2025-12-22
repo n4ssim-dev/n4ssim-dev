@@ -78,7 +78,7 @@ authentification, rôles, uploads sécurisés, formulaires WTForms et migration 
   
 🔧 Stack : React, Bootstrap
   
-🔗 Lien : https://fablab-palanquee.netlify.app/  
+🔗 Lien : https://fablab-palanquee.netlify.app/  (Environement staging)
 
 ---
 
