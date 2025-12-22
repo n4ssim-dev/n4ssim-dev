@@ -6,9 +6,8 @@
 
 ## 🧑‍💻 À propos de moi
 
-Administrateur Cloud DevOps en devenir, issu de Python et du web,   
-enthousiaste à l’idée de transformer des idées en des projets  
-robustes, sécurisés,  actionnables et déployables.  🤝
+Administrateur Cloud DevOps en devenir, issu de Python et du web, enthousiaste à l’idée de transformer des idées  
+en des projets robustes, sécurisés, actionnables et déployables.
 
 🎯 Objectifs actuels :  
 - Approfondir mes compétences Docker pour optimiser mes Pipelines CI/CD
