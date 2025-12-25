@@ -1,23 +1,22 @@
 <!-- Header -->
-<h1 align="center">👋 Salut, moi c’est Nassim !</h1>
-<p align="center">💻 Alternant - Administrateur Cloud DevOps • Python</p>
+<h1 align="center">👋 Hi, I'm Nassim!</h1>
+<p align="center">💻 Fullstack Web Developer • DevOps </p>
 
 ---
 
-## 🧑‍💻 À propos de moi
+## 🧑‍💻 About Me
 
-Administrateur Cloud DevOps en devenir, issu de Python et du web, enthousiaste à l’idée de transformer des idées  
-en des projets robustes, sécurisés, actionnables et déployables.
+Full-Stack Web Developer, DevOps-aware, Open-source enthusiast, passionate about turning ideas into robust, secure, and deployable projects.
 
-🎯 Objectifs actuels :  
-- Approfondir mes compétences Docker pour optimiser mes Pipelines CI/CD
-- Automatiser mes pipelines à 100% : Ne pas avoir trop recours au staging & push régulièrement des tests serveur
+🎯 **Current Goals:**
+- Deepen my **Docker** and **Kubernetes** skills to optimize CI/CD pipelines and 
+- Achieve **100% automation** in my pipelines: Minimize manual staging and push server tests regularly
 
 ---
 
-## 🚀 Ma Stack Technique
+## 🚀 My Tech Stack
 
-### 🧠 Langages
+### 🧠 **Programming Languages**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
@@ -27,22 +26,25 @@ en des projets robustes, sécurisés, actionnables et déployables.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
 </p>
 
-### 🏗️ Frameworks & Technologies
+### 🏗️ **Frameworks & Technologies**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/>
 </p>
 
-### 🗄️ Bases de données
+### 🗄️ **Databases**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
 </p>
 
-### 🧰 Outils & Environnements
+### 🧰 **Tools & Environments**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45"/>
@@ -50,44 +52,39 @@ en des projets robustes, sécurisés, actionnables et déployables.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="45"/>
 </p>
 
-### 🔧 Méthodologies
-- Agile  
-- Scrum  
-- CI/CD
-- SRE
+### 🔧 **Methodologies**
+- **Agile**
+- **Scrum**
+- **CI/CD**
+- **Infrastructure as Code (IaC)**
 
 ---
 
-## ⭐ Derniers projets
+## ⭐ Latest Projects
 
 ### 🔹 **Fablab App**
-📌 Création d’une plateforme web complète (Flask) incluant gestion utilisateurs,  
-blog, catalogue machines, portfolio de créations et calendrier d’événements.  
-Mise en place du backend (Python, SQLAlchemy),  
-authentification, rôles, uploads sécurisés, formulaires WTForms et migration de base de données.  
-  
-🔧 Stack : Python, Flask, PostgreSQL, Bootstrap  
-  
-🔗 Lien : 🚧N/A🚧
+📌 Developed a **full-stack web platform** (Flask) featuring user management, blog, machine catalog, creation portfolio, and event calendar.
+🔧 **Stack:** Python, Flask, PostgreSQL, Bootstrap
+🔗 **Link:** [https://github.com/n4ssim-dev/fablab-assistant]
 
 ### 🔹 **Fablab Site**
-📌 CI/CD d’une app web React avec Gitlab (Test E2E,bash, server, …) et déploiement sur AWS(S3) puis netlify
-  
-🔧 Stack : React, Bootstrap
-  
-🔗 Lien : [https://staging--fablab-palanquee.netlify.app/] (Environement staging)
+📌 Implemented **CI/CD** for a React web app using GitLab (E2E tests, bash scripts, server deployment) and deployed on **AWS (S3)** and **Netlify**.
+🔧 **Stack:** React, Bootstrap
+🔗 **Link:** [https://staging--fablab-palanquee.netlify.app/](https://staging--fablab-palanquee.netlify.app/) (Staging Environment)
 
 ---
 
-## 🐍 Le serpent qui mange mes contributions
+## 🐍 The Snake Eating My Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-
 <p align="center">
-  ✨ Merci d’être passé sur mon profil ! N’hésite pas à laisser une ⭐ sur un repo si quelque chose t’a plu !
+  ✨ Thanks for visiting my profile! Feel free to leave a ⭐ on a repo if you liked something!
 </p>
