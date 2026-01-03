@@ -51,14 +51,12 @@ Développeur Web Full-Stack, affinité avec les pratiques DevOps, libriste et en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="45"/>
 </p>
 
 ### 🔧 **Méthodologies**
 - **Agile**
 - **Scrum**
 - **CI/CD**
-- **Infrastructure as Code (IaC)**
 
 ---
 
