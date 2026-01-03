@@ -1,12 +1,12 @@
 <!-- En-tête -->
-<h1 align="center">👋 Salut, je m'appelle Nassim !</h1>
+<h1 align="center">👋 Salut, c'est Nassim !</h1>
 <p align="center">💻 Développeur Web Fullstack • DevOps</p>
 
 ---
 
 ## 🧑‍💻 À propos de moi
 
-Développeur Web Full-Stack, sensibilisé au DevOps, passionné d'open-source et enthousiaste à l'idée de transformer des idées en projets robustes, sécurisés et déployables.
+Développeur Web Full-Stack, affinité avec les pratiques DevOps, libriste et enthousiaste à l'idée de transformer des idées en projets robustes, sécurisés et déployables.
 
 🎯 **Objectifs actuels :**
 - Approfondir mes compétences en **Docker** et **Kubernetes** pour optimiser les pipelines CI/CD
