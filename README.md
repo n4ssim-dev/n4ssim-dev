@@ -1,22 +1,22 @@
-<!-- Header -->
-<h1 align="center">👋 Hi, I'm Nassim!</h1>
-<p align="center">💻 Fullstack Web Developer • DevOps </p>
+<!-- En-tête -->
+<h1 align="center">👋 Salut, je m'appelle Nassim !</h1>
+<p align="center">💻 Développeur Web Fullstack • DevOps</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 À propos de moi
 
-Full-Stack Web Developer, DevOps-aware, Open-source enthusiast, passionate about turning ideas into robust, secure, and deployable projects.
+Développeur Web Full-Stack, sensibilisé au DevOps, passionné d'open-source et enthousiaste à l'idée de transformer des idées en projets robustes, sécurisés et déployables.
 
-🎯 **Current Goals:**
-- Deepen my **Docker** and **Kubernetes** skills to optimize CI/CD pipelines and 
-- Achieve **100% automation** in my pipelines: Minimize manual staging and push server tests regularly
+🎯 **Objectifs actuels :**
+- Approfondir mes compétences en **Docker** et **Kubernetes** pour optimiser les pipelines CI/CD
+- Atteindre **100% d'automatisation** dans mes pipelines : minimiser les mises en scène manuelles et pousser régulièrement des tests sur le serveur
 
 ---
 
-## 🚀 My Tech Stack
+## 🚀 Ma stack technique
 
-### 🧠 **Programming Languages**
+### 🧠 **Langages de programmation**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
@@ -36,14 +36,14 @@ Full-Stack Web Developer, DevOps-aware, Open-source enthusiast, passionate about
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
 </p>
 
-### 🗄️ **Databases**
+### 🗄️ **Bases de données**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
 </p>
 
-### 🧰 **Tools & Environments**
+### 🧰 **Outils & Environnements**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45"/>
@@ -54,7 +54,7 @@ Full-Stack Web Developer, DevOps-aware, Open-source enthusiast, passionate about
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="45"/>
 </p>
 
-### 🔧 **Methodologies**
+### 🔧 **Méthodologies**
 - **Agile**
 - **Scrum**
 - **CI/CD**
@@ -62,26 +62,26 @@ Full-Stack Web Developer, DevOps-aware, Open-source enthusiast, passionate about
 
 ---
 
-## ⭐ Latest Projects
+## ⭐ Derniers projets
 
-### 🔹 **Fablab App**
-📌 Developed a **full-stack web platform** (Flask) featuring user management, blog, machine catalog, creation portfolio, and event calendar.
-🔧 **Stack:** Python, Flask, PostgreSQL, Bootstrap
-🔗 **Link:** [https://github.com/n4ssim-dev/fablab-assistant]
+### 🔹 **Application Fablab**
+📌 Développé une **plateforme web full-stack** (Flask) avec gestion des utilisateurs, blog, catalogue de machines, portfolio de créations et calendrier d'événements.
+🔧 **Stack :** Python, Flask, PostgreSQL, Bootstrap
+🔗 **Lien :** [https://github.com/n4ssim-dev/fablab-assistant]
 
-### 🔹 **Fablab Site**
-📌 Implemented **CI/CD** for a React web app using GitLab (E2E tests, bash scripts, server deployment) and deployed on **AWS (S3)** and **Netlify**.
-🔧 **Stack:** React, Bootstrap
-🔗 **Link:** [https://staging--fablab-palanquee.netlify.app/](https://staging--fablab-palanquee.netlify.app/) (Staging Environment)
+### 🔹 **Site Fablab**
+📌 Implémenté une **CI/CD** pour une application web React en utilisant GitLab (tests E2E, scripts bash, déploiement serveur) et déployé sur **AWS (S3)** et **Netlify**.
+🔧 **Stack :** React, Bootstrap
+🔗 **Lien :** [https://staging--fablab-palanquee.netlify.app/](https://staging--fablab-palanquee.netlify.app/) (Environnement de staging)
 
 ---
 
-## 🐍 The Snake Eating My Contributions
+## 🐍 Le serpent qui mange mes contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <p align="center">
-  ✨ Thanks for visiting my profile! Feel free to leave a ⭐ on a repo if you liked something!
+  ✨ Merci d'avoir visité mon profil ! N'hésitez pas à laisser une ⭐ sur un dépôt si quelque chose vous a plu !
 </p>
