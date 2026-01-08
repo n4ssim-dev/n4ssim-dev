@@ -68,7 +68,7 @@ Développeur Web Full-Stack, affinité avec les pratiques DevOps, libriste et en
 🔗 **Lien :** [https://github.com/n4ssim-dev/fablab-assistant]
 
 ### 🔹 **Site Fablab**
-📌 Implémenté une **CI/CD** pour une application web React en utilisant GitLab (tests E2E, scripts bash, déploiement serveur) et déployé sur **AWS (S3)** et **Netlify**.
+📌 Création d'une app web en React(FabLab) conforme aux normes web actuelles (SPA,W3C,Accesibilité,SEO...), implémentation d'une pipeline **CI/CD** en utilisant GitLab (tests E2E, scripts bash, déploiement serveur AWS(S3)/Netlify).
 🔧 **Stack :** React, Bootstrap
 🔗 **Lien :** [https://staging--fablab-palanquee.netlify.app/](https://staging--fablab-palanquee.netlify.app/) (Environnement de staging)
 
