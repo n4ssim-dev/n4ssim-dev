@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 À propos de moi
 
-Développeur Web Full-Stack, affinité avec les pratiques DevOps, libriste et enthousiaste à l'idée de transformer des idées en projets robustes, sécurisés et déployables.
+Développeur Web Full-Stack, affinité avec les pratiques DevOps, libriste et enthousiaste à l'idée de transformer des idées en projets innovants et robustes.
 
 🎯 **Objectifs actuels :**
 - Approfondir mes compétences en **Docker** et **Kubernetes** pour optimiser les pipelines CI/CD
@@ -28,8 +28,8 @@ Développeur Web Full-Stack, affinité avec les pratiques DevOps, libriste et en
 
 ### 🏗️ **Frameworks & Technologies**
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
