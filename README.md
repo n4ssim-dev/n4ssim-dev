@@ -23,7 +23,7 @@
 
 ## Projects
 
-**[12Do](https://streamable.com/g734vj)** — Task management application with integrated an Dashboard and Calendar
+**[12Do](https://streamable.com/g734vj)** — Full-stack Task management web application (FastAPI, React) with user management, oauth and jwt authentication, an integrated Dashboard and a Calendar
 `Python` `FastAPI` `PostgreSQL` `React`
 
 **[Fablab App](https://github.com/n4ssim-dev/fablab-assistant)** — Full-stack web platform (Flask) with user management, blog, machine catalog, portfolio and event calendar.
