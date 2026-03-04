@@ -23,8 +23,11 @@
 
 ## Projects
 
+**[12Do](https://streamable.com/g734vj)** — Task management application with integrated an Dashboard and Calendar
+`Python` `FastAPI` `PostgreSQL` `React`
+
 **[Fablab App](https://github.com/n4ssim-dev/fablab-assistant)** — Full-stack web platform (Flask) with user management, blog, machine catalog, portfolio and event calendar.
 `Python` `Flask` `PostgreSQL` `Bootstrap`
 
-**[Fablab Site](https://staging--fablab-palanquee.netlify.app/)** — React SPA compliant with modern web standards (W3C, accessibility, SEO). CI/CD pipeline via GitLab with E2E tests and AWS S3 / Netlify deployment.
+**[Fablab Site](https://fablob.netlify.app/)** — React SPA compliant with modern web standards (W3C, accessibility, SEO). CI/CD pipeline via GitLab with E2E tests and AWS S3 / Netlify deployment.
 `React` `Bootstrap` `GitLab CI/CD`
