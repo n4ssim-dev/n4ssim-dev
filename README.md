@@ -32,11 +32,3 @@ Développeur polyvalent passé par l'IoT, le CI/CD, le web et la CAO — aujourd
 | **Qualité & méthode** | Tests, revue de code, patterns, sécurité OWASP, organisation Agile | `TDD` `SCRUM` `DRY/KISS` `OWASP` `Design Patterns` `POO` |
 
 ---
-
-## Projets notables
-
-### [EpiVec](https://github.com/n4ssim-dev/EpiVec)
-Plateforme desktop d'analyse épidémiologique par GraphRAG, interrogeable en langage naturel. Pipeline RAG/GraphRAG entièrement écrite à la main — sans LLM ni framework externe.
-
-### [CFFPIA](https://github.com/n4ssim-dev/CFFPIA)
-Agrégateur de données financières publiques (scraping + APIs gouvernementales), exposé via API REST et interrogeable en langage naturel par pipeline NLP custom.
