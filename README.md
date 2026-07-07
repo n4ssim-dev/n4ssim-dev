@@ -1,6 +1,6 @@
 # n4ssim · Développeur logiciel & IA
 
-Développeur polyvalent passé par l'IoT, le CI/CD, le web et la CAO — aujourd'hui focalisé sur l'IA et le traitement de données avec Python. Je construis des pipelines, des API et des interfaces qui traduisent la donnée brute en conclusion actionnable.
+Développeur polyvalent passé par l'IoT, le CI/CD, le web et la CAO, aujourd'hui focalisé sur l'IA et le traitement de données avec Python. Je construis des pipelines, des API et des interfaces qui traduisent la donnée brute en conclusion actionnable.
 
 ---
 
