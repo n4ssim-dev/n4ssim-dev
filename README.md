@@ -1,5 +1,6 @@
 ## Stack principale
- 
+[Gif graph](https://res.cloudinary.com/gbe0hw6p/image/upload/v1785507505/SkillVectorJourney_rucita.gif) 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
